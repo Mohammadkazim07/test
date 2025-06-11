@@ -178,7 +178,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>© 2025 DRASTANT AYURVEDA ACADEMY. All rights reserved.</p>
+        <p>© 2025 DRASHTANT AYURVEDA ACADEMY. All rights reserved.</p>
         <p> Developed by mKviruS</p>
       </footer>
     </>
